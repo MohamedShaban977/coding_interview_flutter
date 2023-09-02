@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "cover_photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "series_name": "The Challenge",
+      "title_run_time":"03 hrs 08 mins (7 Videos)",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+      "difficulty": "intermediate",
+      "intensity":"Level 4",
+      "coaches": [
+        {
+          "id": 1,
+          "name": "josh Kramer",
+          "bio" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need"
+        }
+      ],
+      "classes":[
+        {
+          "id":0,
+          "title": "",
+          "durations":"",
+          "isSeen": false,
+          "description": "",
+          "video": "",
+          "community": {
+            "count_likes":0,
+            "users_community":  [
+              {
+                "user_id": 0,
+                "user_name": "",
+                "user_photo": "",
+                "time_comment": "",
+                "des_comment": ""
+              }
+            ]
+          }
+        }
+      ]
+
+    }
+  ]
+}
