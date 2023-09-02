@@ -18,20 +18,20 @@
       "classes":[
         {
           "id":0,
-          "title": "",
-          "durations":"",
-          "isSeen": false,
-          "description": "",
-          "video": "",
+          "title": "hwo to approach this series",
+          "durations":"30:74",
+          "isSeen": true,
+          "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 yea",
+          "video": "rV5qPKZa6_c",
           "community": {
             "count_likes":0,
             "users_community":  [
               {
                 "user_id": 0,
-                "user_name": "",
-                "user_photo": "",
-                "time_comment": "",
-                "des_comment": ""
+                "user_name": "Dom Harreson",
+                "user_photo": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "time_comment": "3 hours ago",
+                "des_comment": "challenge Round : 46 jump squats"
               }
             ]
           }
